@@ -29,4 +29,4 @@ group :development do
 end
 
 
-gem "conventional_extensions", "~> 0.2.1"
+gem "conventional_extensions", github: 'kaspth/conventional_extensions'
