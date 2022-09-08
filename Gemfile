@@ -28,3 +28,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "conventional_extensions", "~> 0.2.1"
